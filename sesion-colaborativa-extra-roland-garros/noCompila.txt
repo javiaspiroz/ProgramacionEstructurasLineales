@@ -1,0 +1,2 @@
+Aviso de que este programa no compila en este ordenador.
+Tras el cambio al nuevo portátil MSI no funciona, el exe en este ordenador está copiado del anterior.

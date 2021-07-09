@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/vector/main.cpp
+iostream
+-
+cstdlib
+-
+string
+-
+fmt/format.h
+-
+memory
+-
+string
+-
+

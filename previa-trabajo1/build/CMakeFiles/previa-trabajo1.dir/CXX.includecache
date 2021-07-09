@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/extra-files/match.hpp
+utility
+-
+variant
+-
+
+D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/previa-trabajo1/main.cpp
+iostream
+-
+fmt/format.h
+-
+cstdlib
+-
+cmath
+-
+complex
+-
+match.hpp
+D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/previa-trabajo1/match.hpp
+

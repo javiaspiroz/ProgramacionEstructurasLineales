@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/range-v3/main.cpp
+iostream
+-
+cstdlib
+-
+fmt/format.h
+-
+range/v3/view/iota.hpp
+-
+range/v3/view/filter.hpp
+-
+range/v3/view/take.hpp
+-
+range/v3/view/transform.hpp
+-
+range/v3/view/enumerate.hpp
+-
+range/v3/action/sort.hpp
+-
+range/v3/action/unique.hpp
+-
+range/v3/action/remove_if.hpp
+-
+range/v3/action/transform.hpp
+-
+string
+-
+vector
+-
+

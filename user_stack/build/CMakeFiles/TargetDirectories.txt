@@ -1,0 +1,5 @@
+D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/user_stack/build/CMakeFiles/edit_cache.dir
+D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/user_stack/build/CMakeFiles/package_source.dir
+D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/user_stack/build/CMakeFiles/rebuild_cache.dir
+D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/user_stack/build/CMakeFiles/package.dir
+D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/user_stack/build/CMakeFiles/user_stack.dir

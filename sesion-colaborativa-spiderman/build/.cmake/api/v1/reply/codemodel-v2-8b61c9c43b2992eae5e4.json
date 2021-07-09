@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "sesion-colaborativa-spiderman",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "sesion-colaborativa-spiderman::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sesion-colaborativa-spiderman-Debug-317b1f08d4df686fd076.json",
+					"name" : "sesion-colaborativa-spiderman",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/sesion-colaborativa-spiderman/build",
+		"source" : "D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/sesion-colaborativa-spiderman"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

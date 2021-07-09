@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "sesion-colaborativa-star-wars",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "sesion-colaborativa-star-wars::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sesion-colaborativa-star-wars-Debug-e6a4f589ae325aa67e7c.json",
+					"name" : "sesion-colaborativa-star-wars",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/sesion-colaborativa-star-wars/build",
+		"source" : "D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/sesion-colaborativa-star-wars"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

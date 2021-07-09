@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "sesion_colaborativa_presis_usa",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "sesion_colaborativa_presis_usa::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sesion_colaborativa_presis_usa-Debug-e9c3fa91afeb40c4d8c8.json",
+					"name" : "sesion_colaborativa_presis_usa",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/sesion_colaborativa_presis_usa/build",
+		"source" : "D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/sesion_colaborativa_presis_usa"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

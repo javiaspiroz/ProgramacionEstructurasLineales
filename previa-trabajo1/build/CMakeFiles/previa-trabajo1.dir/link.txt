@@ -1,0 +1,3 @@
+C:\msys64\mingw64\bin\cmake.exe -E rm -f CMakeFiles\previa-trabajo1.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe cr CMakeFiles\previa-trabajo1.dir/objects.a @CMakeFiles\previa-trabajo1.dir\objects1.rsp
+C:\msys64\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\previa-trabajo1.dir/objects.a -Wl,--no-whole-archive  -o debug\previa-trabajo1.exe -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\previa-trabajo1.dir\linklibs.rsp

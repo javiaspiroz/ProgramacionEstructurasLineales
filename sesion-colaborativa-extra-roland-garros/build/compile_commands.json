@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/sesion-colaborativa-extra-roland-garros/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  -DFMT_LOCALE @CMakeFiles/sesion-colaborativa-extra-roland-garros.dir/includes_CXX.rsp -g   -Wall -Wextra -pedantic -Werror -std=c++2a -o CMakeFiles\\sesion-colaborativa-extra-roland-garros.dir\\main.cpp.obj -c D:\\MisDocumentos\\UEM\\Proyectos\\ProgramacionEstructurasLineales\\sesion-colaborativa-extra-roland-garros\\main.cpp",
+  "file": "D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/sesion-colaborativa-extra-roland-garros/main.cpp"
+}
+]

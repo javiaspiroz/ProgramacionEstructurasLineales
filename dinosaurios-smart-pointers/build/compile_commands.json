@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/dinosaurios-smart-pointers/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  -DFMT_LOCALE @CMakeFiles/dinosaurios-smart-pointers.dir/includes_CXX.rsp -g   -Wall -Wextra -pedantic -Werror -std=c++17 -o CMakeFiles\\dinosaurios-smart-pointers.dir\\main.cpp.obj -c D:\\MisDocumentos\\UEM\\Proyectos\\ProgramacionEstructurasLineales\\dinosaurios-smart-pointers\\main.cpp",
+  "file": "D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/dinosaurios-smart-pointers/main.cpp"
+}
+]

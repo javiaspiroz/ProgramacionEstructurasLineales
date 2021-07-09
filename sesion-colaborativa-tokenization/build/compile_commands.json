@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/sesion-colaborativa-tokenization/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  -DFMT_LOCALE @CMakeFiles/sesion-colaborativa-tokenization.dir/includes_CXX.rsp -g   -Wall -Wextra -pedantic -Werror -std=c++17 -o CMakeFiles\\sesion-colaborativa-tokenization.dir\\main.cpp.obj -c D:\\MisDocumentos\\UEM\\Proyectos\\ProgramacionEstructurasLineales\\sesion-colaborativa-tokenization\\main.cpp",
+  "file": "D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/sesion-colaborativa-tokenization/main.cpp"
+}
+]

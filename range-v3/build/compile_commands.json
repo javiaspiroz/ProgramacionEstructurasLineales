@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/range-v3/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  -DFMT_LOCALE @CMakeFiles/ranges.dir/includes_CXX.rsp -g   -Wall -Wextra -pedantic -Werror -std=c++17 -o CMakeFiles\\ranges.dir\\main.cpp.obj -c D:\\MisDocumentos\\UEM\\Proyectos\\ProgramacionEstructurasLineales\\range-v3\\main.cpp",
+  "file": "D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/range-v3/main.cpp"
+}
+]

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/vector-inicial/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  -DFMT_LOCALE @CMakeFiles/vector-inicial.dir/includes_CXX.rsp -g   -Wall -Wextra -pedantic -Werror -std=c++17 -o CMakeFiles\\vector-inicial.dir\\main.cpp.obj -c D:\\MisDocumentos\\UEM\\Proyectos\\ProgramacionEstructurasLineales\\vector-inicial\\main.cpp",
+  "file": "D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/vector-inicial/main.cpp"
+}
+]

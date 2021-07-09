@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "sesion-colaborativa-amazon-profesor",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "sesion-colaborativa-amazon-profesor::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sesion-colaborativa-amazon-profesor-Debug-a42996b088c8ae1644b3.json",
+					"name" : "sesion-colaborativa-amazon-profesor",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/sesion-colaborativa-amazon-profesor/build",
+		"source" : "D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/sesion-colaborativa-amazon-profesor"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

@@ -1,0 +1,5 @@
+D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/sesion-colaborativa-amazon/build/CMakeFiles/edit_cache.dir
+D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/sesion-colaborativa-amazon/build/CMakeFiles/package_source.dir
+D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/sesion-colaborativa-amazon/build/CMakeFiles/rebuild_cache.dir
+D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/sesion-colaborativa-amazon/build/CMakeFiles/package.dir
+D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/sesion-colaborativa-amazon/build/CMakeFiles/sesion-colaborativa-amazon.dir

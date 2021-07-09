@@ -1,0 +1,3 @@
+C:\msys64\mingw64\bin\cmake.exe -E rm -f CMakeFiles\sesion_colaborativa_presis_usa.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe cr CMakeFiles\sesion_colaborativa_presis_usa.dir/objects.a @CMakeFiles\sesion_colaborativa_presis_usa.dir\objects1.rsp
+C:\msys64\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\sesion_colaborativa_presis_usa.dir/objects.a -Wl,--no-whole-archive  -o debug\sesion_colaborativa_presis_usa.exe -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\sesion_colaborativa_presis_usa.dir\linklibs.rsp

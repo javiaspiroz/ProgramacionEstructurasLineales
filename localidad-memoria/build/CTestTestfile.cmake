@@ -1,0 +1,6 @@
+# CMake generated Testfile for 
+# Source directory: D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/localidad-memoria
+# Build directory: D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/localidad-memoria/build
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.

@@ -1,0 +1,5 @@
+D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/algoritmos-particion/build/CMakeFiles/edit_cache.dir
+D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/algoritmos-particion/build/CMakeFiles/package_source.dir
+D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/algoritmos-particion/build/CMakeFiles/rebuild_cache.dir
+D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/algoritmos-particion/build/CMakeFiles/package.dir
+D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/algoritmos-particion/build/CMakeFiles/algoritmos-particion.dir

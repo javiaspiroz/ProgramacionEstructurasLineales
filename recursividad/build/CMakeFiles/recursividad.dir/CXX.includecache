@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/recursividad/main.cpp
+cmath
+-
+chrono
+-
+cstdlib
+-
+fmt/format.h
+-
+iostream
+-
+vector
+-
+

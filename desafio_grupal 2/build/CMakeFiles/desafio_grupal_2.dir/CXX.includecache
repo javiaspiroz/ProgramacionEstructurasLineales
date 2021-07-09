@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/desafio_grupal 2/main.cpp
+cstdlib
+-
+fmt/format.h
+-
+iostream
+-
+string
+-
+vector
+-
+thread
+-
+chrono
+-
+random
+-
+future
+-
+utility
+-
+memory
+-
+

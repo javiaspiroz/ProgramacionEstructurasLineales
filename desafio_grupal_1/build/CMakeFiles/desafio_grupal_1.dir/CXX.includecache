@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/desafio_grupal_1/main.cpp
+cstdlib
+-
+fmt/format.h
+-
+iostream
+-
+vector
+-
+match.hpp
+D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/desafio_grupal_1/match.hpp
+read_cin.hpp
+D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/desafio_grupal_1/read_cin.hpp
+
+D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/extra-files/match.hpp
+utility
+-
+variant
+-
+
+D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/extra-files/read_cin.hpp
+iostream
+-
+sstream
+-
+string
+-
+string_view
+-
+

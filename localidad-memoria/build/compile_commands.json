@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/localidad-memoria/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  -DFMT_LOCALE @CMakeFiles/localidad-memoria.dir/includes_CXX.rsp -g   -Wall -Wextra -pedantic -Werror -std=c++2a -o CMakeFiles\\localidad-memoria.dir\\main.cpp.obj -c D:\\MisDocumentos\\UEM\\Proyectos\\ProgramacionEstructurasLineales\\localidad-memoria\\main.cpp",
+  "file": "D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/localidad-memoria/main.cpp"
+}
+]

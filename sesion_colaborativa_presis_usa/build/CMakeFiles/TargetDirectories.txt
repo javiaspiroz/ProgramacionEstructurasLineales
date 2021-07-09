@@ -1,0 +1,5 @@
+D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/sesion_colaborativa_presis_usa/build/CMakeFiles/edit_cache.dir
+D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/sesion_colaborativa_presis_usa/build/CMakeFiles/package_source.dir
+D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/sesion_colaborativa_presis_usa/build/CMakeFiles/rebuild_cache.dir
+D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/sesion_colaborativa_presis_usa/build/CMakeFiles/package.dir
+D:/MisDocumentos/UEM/Proyectos/ProgramacionEstructurasLineales/sesion_colaborativa_presis_usa/build/CMakeFiles/sesion_colaborativa_presis_usa.dir

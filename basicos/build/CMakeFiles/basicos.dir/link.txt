@@ -1,0 +1,3 @@
+C:\msys64\mingw64\bin\cmake.exe -E rm -f CMakeFiles\basicos.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe cr CMakeFiles\basicos.dir/objects.a @CMakeFiles\basicos.dir\objects1.rsp
+C:\msys64\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\basicos.dir/objects.a -Wl,--no-whole-archive  -o debug\basicos.exe -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\basicos.dir\linklibs.rsp
